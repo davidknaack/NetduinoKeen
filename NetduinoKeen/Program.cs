@@ -18,7 +18,7 @@ namespace NetduinoKeen
     public class Program
     {
         private const string ProjectId = "54e5873790e4bd1b9c7667e1";
-        private const string ApiKey = "D72E96B0808C1DB72F026B8E2365EDF7";
+        private const string ApiKey = "<master or write key here>";
 
         private static readonly OutputPort Led = new OutputPort(Pins.ONBOARD_LED, false);
         private static readonly AnalogInput A0 = new AnalogInput(Cpu.AnalogChannel.ANALOG_0);
