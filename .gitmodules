@@ -1,0 +1,3 @@
+[submodule "uplibrary"]
+	path = uplibrary
+	url = https://git01.codeplex.com/forks/davek2/uplibrary
